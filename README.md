@@ -12,13 +12,11 @@ Real-Crypto-Tracker-Site is a web application that allows you to monitor the pri
 
 ### How to Use Real-Crypto-Tracker-Site?
 
-1. **Visit the Website**: Open your web browser and go to [https://real-crypto-tracker-site.com](https://real-crypto-tracker-site.com).
+1. **Visit the Website**: Open your web browser and go to https://real-crypto-tracker-site.netlify.app/.
 
 2. **Explore Cryptocurrency Prices**: Once you're on the website, you'll see a list of popular cryptocurrencies along with their current prices. You can scroll through the list to see more cryptocurrencies or use the search bar to find a specific one.
 
 3. **Track Real-Time Prices**: The prices on Real-Crypto-Tracker-Site are updated in real-time, so you'll always have the latest information at your fingertips. You can see how the prices are changing over time and make informed decisions about buying or selling cryptocurrencies.
-
-4. **Additional Features**: Real-Crypto-Tracker-Site also offers additional features like historical price charts, market trends, and price alerts. These tools can help you analyze the market and make strategic decisions.
 
 ### Why Use Real-Crypto-Tracker-Site?
 
@@ -29,9 +27,5 @@ Real-Crypto-Tracker-Site is a web application that allows you to monitor the pri
 - **User-Friendly Interface**: Real-Crypto-Tracker-Site is designed to be easy to use, even for those who are new to cryptocurrency trading.
 
 - **Free to Use**: Real-Crypto-Tracker-Site is completely free to use. There are no hidden fees or subscriptions required.
-
-### Feedback and Support
-
-We're constantly working to improve Real-Crypto-Tracker-Site and would love to hear your feedback. If you have any questions, suggestions, or encounter any issues while using the platform, please don't hesitate to reach out to us at [support@real-crypto-tracker-site.com](mailto:support@real-crypto-tracker-site.com).
 
 Thank you for using Real-Crypto-Tracker-Site! Happy tracking! 📈🚀
